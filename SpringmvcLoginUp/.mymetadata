@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SpringmvcLoginUp"
+  id="myeclipse.1497340025793"
+  context-root="/SpringmvcLoginUp"
+  j2ee-spec="6.0"
+  archive="SpringmvcLoginUp.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
