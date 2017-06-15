@@ -4,5 +4,5 @@ import cn.edu.wic.bean.User;
 
 public interface UserDao {
 
-	public void save(User useer);
+	public void save(User user);
 }
